@@ -12,7 +12,9 @@ image:
 date: 2016-02-18T10:58:19+01:00
 ---
 
-##Launching Yes, &...
+![]({{ site.url }}/images/brutalisim.jpg)
+
+Launching Yes, &...
 
 I've been thinking about how best to explain what is "I do", mainly people want to know so they can help you, refer you, bear you in mind, y'know, be helpful. Sadly, I've never really known. So with 2016 the year of new beginnings, I've started to seperate out the various bits of myself, in to productised, packaged chunks that can be easily consumed.
 
