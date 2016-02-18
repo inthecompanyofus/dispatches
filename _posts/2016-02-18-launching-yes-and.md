@@ -3,18 +3,19 @@ layout: article
 title: Launching Yes, And..
 modified:
 categories: 
-excerpt: 
+excerpt: I've been thinking about how best to explain what is "I do", mainly people want to know so they can help you, refer you, bear you in mind, y'know, be helpful. Sadly, I've never really known. So with 2016 the year of new beginnings, I've started to seperate out the various bits of myself, in to productised, packaged chunks that can be easily consumed.
 tags: []
 image: 
   feature: 
-  teaser: 
+  teaser: brutalisim.jpg
   thumb:
 date: 2016-02-18T10:58:19+01:00
 ---
+#Introducing Yes, &...
 
 ![]({{ site.url }}/images/brutalisim.jpg)
 
-Launching Yes, &...
+
 
 I've been thinking about how best to explain what is "I do", mainly people want to know so they can help you, refer you, bear you in mind, y'know, be helpful. Sadly, I've never really known. So with 2016 the year of new beginnings, I've started to seperate out the various bits of myself, in to productised, packaged chunks that can be easily consumed.
 
@@ -23,6 +24,8 @@ Yes & represents my love of startups, my passion for elegant, interesting soluti
 Think of it as boutique startup agency. From communications, to creativity, to connections, to internal culture, to process, to plain old business.
 
 We always say, Yes, &...
+
+<!-- more -->
 
 ![]({{ site.url }}/images/blog.jpg)
 
@@ -40,6 +43,3 @@ Yes, & is already becoming the go-to place for startups to seek guidance, experi
 
 ![]({{ site.url }}/images/talking.jpg)
 
-## From The Block Chain.
-
-![]({{ site.url }}/images/blockchain.jpg)
