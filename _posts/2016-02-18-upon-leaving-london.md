@@ -11,7 +11,7 @@ image:
   thumb:
 date: 2016-02-18T11:26:22+01:00
 ---
-#Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet.
 
 ![]({{site.url}}/images/googlesea.jpg)
 
