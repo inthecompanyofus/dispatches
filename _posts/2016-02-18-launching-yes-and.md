@@ -28,7 +28,7 @@ We always say, Yes, &...
 
 I've been trying to play around with the design and the stylings for quite some time, trying to find a space that let's our own brand shine, without being a top heavy, oppressive force. We want to be a quiet, gentle, organisation that changes the world. We're more like architects than artists, more engineering than raw creativity, more considered than zeitguiest, but light years ahead of our competitors when it comes to trends.
 
-![](/{{ site.url }}/images/campfire.jpg)
+![](/{{ site.url }}/images/Campfire.jpg)
 
 Yes, &... believes in stories.
 
