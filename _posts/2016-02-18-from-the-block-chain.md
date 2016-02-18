@@ -15,7 +15,7 @@ date: 2016-02-18T11:26:08+01:00
 
 ## From The Block Chain.
 
-![]({{ site.url }}/images/blockchain.jpg)
+![]({{ site.url }}/images/blockchain.jpg )
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin orci arcu, dapibus fringilla efficitur ornare, molestie placerat nisl. Nunc tristique efficitur augue et gravida. Pellentesque urna lorem, maximus quis auctor vel, facilisis ut risus. Sed facilisis sodales eros, a tristique sapien venenatis placerat. Donec aliquam turpis orci, id lacinia risus tincidunt nec. Aenean sed ex et ligula faucibus suscipit vitae ut tellus. Etiam malesuada auctor mauris, a rutrum augue finibus at. In hac habitasse platea dictumst. Donec euismod mattis ligula, ut finibus felis eleifend sed. Pellentesque blandit tortor lacus, non consequat sapien porttitor sed. Duis efficitur pellentesque bibendum. Nam ac pellentesque dui. Suspendisse facilisis gravida feugiat.
 
