@@ -1,0 +1,22 @@
+<div class="two columns">
+ <div id="right-hand-border"> 
+<h6>Latest Posts</h6>
+{% for post in site.posts %}
+{% include side-bar.html %}
+{% endfor %}
+<h6>colophon</h6>
+    <p>This is the digital atelier of Benjamin Southworth</p>
+
+<script type="text/javascript">
+    var userFeed = new Instafeed({
+        get: 'user',
+        userId: 260967,
+        accessToken: '260967.3e1911f.9ad5688e202e45f48fe7202ba2e2504e',
+        limit: 6
+      });
+    userFeed.run();
+</script>
+ <h6>instagram</h6>
+<div id="instafeed"></div>
+</div>
+</div>
