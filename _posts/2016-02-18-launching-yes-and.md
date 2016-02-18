@@ -11,7 +11,7 @@ image:
   thumb:
 date: 2016-02-18T10:58:19+01:00
 ---
-#Introducing Yes, &...
+# Introducing Yes, &...
 
 ![]({{ site.url }}/images/brutalisim.jpg)
 
