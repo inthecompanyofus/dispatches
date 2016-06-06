@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Blogging Like a Hacker
----
+layout: article
+title: On Relocating to Amsterdam
+---	
 
 #Thoughts on relocating to Amsterdam#
 
