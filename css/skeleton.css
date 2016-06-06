@@ -48,7 +48,7 @@
   border-left: 1px grey solid;
   padding-left: 10px;
  } 
-@media (min-width: 500px) {
+@media (min-width: 300px) {
   .borders {
     border:none;
   }
@@ -178,10 +178,17 @@ img {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: #1EAEDB; 
+  text-decoration: none; 
+}
+
 a:hover {
   color: #0FA0CE; }
 
+a.notlinklink {
+color: black;
+ 
+}
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -551,7 +558,7 @@ there.
 
 
 /* Larger than mobile */
-@media (min-width: 400px) {}
+@media (min-width: 300px) {}
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {}

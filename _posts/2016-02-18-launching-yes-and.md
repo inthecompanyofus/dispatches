@@ -3,16 +3,19 @@ layout: article
 title: Launching Yes, And..
 modified:
 categories: 
-excerpt: 
+excerpt: I've been thinking about how best to explain what is "I do", mainly people want to know so they can help you, refer you, bear you in mind, y'know, be helpful. Sadly, I've never really known. So with 2016 the year of new beginnings, I've started to seperate out the various bits of myself, in to productised, packaged chunks that can be easily consumed.
 tags: []
 image: 
   feature: 
-  teaser: 
+  teaser: brutalisim.jpg
   thumb:
 date: 2016-02-18T10:58:19+01:00
 ---
+# Introducing Yes, &...
 
-##Launching Yes, &...
+![]({{ site.url }}/images/brutalisim.jpg)
+
+
 
 I've been thinking about how best to explain what is "I do", mainly people want to know so they can help you, refer you, bear you in mind, y'know, be helpful. Sadly, I've never really known. So with 2016 the year of new beginnings, I've started to seperate out the various bits of myself, in to productised, packaged chunks that can be easily consumed.
 
@@ -22,11 +25,13 @@ Think of it as boutique startup agency. From communications, to creativity, to c
 
 We always say, Yes, &...
 
+<!-- more -->
+
 ![]({{ site.url }}/images/blog.jpg)
 
 I've been trying to play around with the design and the stylings for quite some time, trying to find a space that let's our own brand shine, without being a top heavy, oppressive force. We want to be a quiet, gentle, organisation that changes the world. We're more like architects than artists, more engineering than raw creativity, more considered than zeitguiest, but light years ahead of our competitors when it comes to trends.
 
-![](/{{ site.url }}/images/campfire.jpg)
+![](/{{ site.url }}/images/Campfire.jpg)
 
 Yes, &... believes in stories.
 
@@ -34,10 +39,7 @@ Powerful, simple, stories that you never forget. We're about striving to communi
 
 ![]({{ site.url }}/images/launch.jpg)
 
-Yes, & is already becoming the go-to place for startups to seek guidance, experience, and influence when attempting to launch. We can guide you through the rollercoaster release and help you make the next steps.
+Yes, &... is already becoming the go-to place for startups to seek guidance, experience, and influence when attempting to launch. We can guide you through the rollercoaster release and help you make the next steps.
 
 ![]({{ site.url }}/images/talking.jpg)
 
-## From The Block Chain.
-
-![]({{ site.url }}/images/blockchain.jpg)
