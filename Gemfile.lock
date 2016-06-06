@@ -139,7 +139,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 49)
+  github-pages
   jekyll (~> 3.0)
   jekyll-gist
   jekyll-sitemap
