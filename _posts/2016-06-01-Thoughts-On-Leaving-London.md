@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 #Thoughts on relocating to Amsterdam#
 
 Hello world, so, I've finally finished a collection of chores, both online and offline, and am now finally ensconced in my new home, a 17th century house in the heart of Amsterdam. Top floor, spiral staircase, and the sound of happy tourists and locals alike floating up from the street  below. ( niewendjik, for those wishing to stalk).
